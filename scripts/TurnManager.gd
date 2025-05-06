@@ -17,3 +17,5 @@ func _process(delta):
 		2:
 			# TODO: simple enemy AI
 			turn_state = 0
+
+var testing = "testing"
